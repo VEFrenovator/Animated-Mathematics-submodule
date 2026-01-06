@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/SinField/1920p30/partial_movie_files/SinField/730909024_142980014_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/SinField/1920p30/partial_movie_files/SinField/3730738974_4093635420_3741154155.mp4'
+file 'file:C:/Users/vladi/Documents/Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/SinField/1920p30/partial_movie_files/SinField/3730738974_199480014_2666656887.mp4'
+file 'file:C:/Users/vladi/Documents/Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/SinField/1920p30/partial_movie_files/SinField/3730738974_794383132_2873729818.mp4'

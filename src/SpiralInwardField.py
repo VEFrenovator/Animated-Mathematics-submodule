@@ -41,14 +41,22 @@ class SpiralInwardField(Scene):
             color=PURPLE,
         ).scale(0.8).move_to(DOWN * 2.0)
 
-        self.play(Create(stream_lines), run_time=2)
-        self.wait()
+        # Add streamlines
+        self.add(stream_lines)
 
-        # Animate flow
+        # Animate streamlines
         stream_lines.start_animation(
             flow_speed=1.0,
             time_width=1.2,
-            line_anim_class=ShowPassingFlashWithThinningStrokeWidth
         )
 
         self.wait(6)
+
+        # Remove all elements
+        self.play(
+            AnimationGroup(
+                Unwrite(title),
+                Unwrite(equation),
+                stream_lines.end_animation(),
+            )
+        )

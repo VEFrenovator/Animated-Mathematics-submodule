@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/CLONE_Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/CircularSwirlField/1920p30/partial_movie_files/CircularSwirlField/2017681337_1572728873_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/CLONE_Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/CircularSwirlField/1920p30/partial_movie_files/CircularSwirlField/1496375296_558462121_2894050736.mp4'
+file 'file:C:/Users/vladi/Documents/CLONE_Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/CircularSwirlField/1920p30/partial_movie_files/CircularSwirlField/1496375296_1699390736_2873729818.mp4'

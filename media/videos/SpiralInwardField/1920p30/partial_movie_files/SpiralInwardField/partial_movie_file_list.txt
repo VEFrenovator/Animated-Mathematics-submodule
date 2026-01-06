@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/SpiralInwardField/1920p30/partial_movie_files/SpiralInwardField/uncached_00000.mp4'
+file 'file:C:/Users/vladi/Documents/Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/SpiralInwardField/1920p30/partial_movie_files/SpiralInwardField/uncached_00001.mp4'
+file 'file:C:/Users/vladi/Documents/Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/SpiralInwardField/1920p30/partial_movie_files/SpiralInwardField/uncached_00002.mp4'
+file 'file:C:/Users/vladi/Documents/Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/SpiralInwardField/1920p30/partial_movie_files/SpiralInwardField/uncached_00003.mp4'

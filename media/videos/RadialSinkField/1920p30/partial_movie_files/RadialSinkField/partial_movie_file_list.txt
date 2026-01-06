@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/RadialSinkField/1920p30/partial_movie_files/RadialSinkField/730909024_2810009019_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/RadialSinkField/1920p30/partial_movie_files/RadialSinkField/3730738974_3919494943_2179998602.mp4'
+file 'file:C:/Users/vladi/Documents/Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/RadialSinkField/1920p30/partial_movie_files/RadialSinkField/3730738974_199480014_1144630575.mp4'
+file 'file:C:/Users/vladi/Documents/Art-gallery-theorem/Animated-Mathematics-submodule/media/videos/RadialSinkField/1920p30/partial_movie_files/RadialSinkField/3730738974_1100888678_2873729818.mp4'
