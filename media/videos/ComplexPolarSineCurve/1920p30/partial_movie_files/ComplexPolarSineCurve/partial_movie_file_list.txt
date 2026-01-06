@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/ComplexPolarSineCurve/1920p30/partial_movie_files/ComplexPolarSineCurve/2017681337_3568599968_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/ComplexPolarSineCurve/1920p30/partial_movie_files/ComplexPolarSineCurve/1496375296_1680513107_4281664476.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/ComplexPolarSineCurve/1920p30/partial_movie_files/ComplexPolarSineCurve/1496375296_1227470156_2174597371.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/ComplexPolarSineCurve/1920p30/partial_movie_files/ComplexPolarSineCurve/1496375296_2844360058_2693339610.mp4'

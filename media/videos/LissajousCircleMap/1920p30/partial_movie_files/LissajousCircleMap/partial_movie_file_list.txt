@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/LissajousCircleMap/1920p30/partial_movie_files/LissajousCircleMap/2017681337_4287585212_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/LissajousCircleMap/1920p30/partial_movie_files/LissajousCircleMap/1496375296_2138899720_3986495845.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/LissajousCircleMap/1920p30/partial_movie_files/LissajousCircleMap/1496375296_3745298624_2057108813.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/LissajousCircleMap/1920p30/partial_movie_files/LissajousCircleMap/1496375296_2834709167_3295280383.mp4'

@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/MobiusShape/1920p30/partial_movie_files/MobiusShape/2017681337_3397307430_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/MobiusShape/1920p30/partial_movie_files/MobiusShape/1496375296_470680369_376556184.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/MobiusShape/1920p30/partial_movie_files/MobiusShape/1496375296_2037173167_3350045429.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/MobiusShape/1920p30/partial_movie_files/MobiusShape/1496375296_2844360058_2857409084.mp4'

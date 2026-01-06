@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/SineWaveSurface3D/1920p30/partial_movie_files/SineWaveSurface3D/4022282350_1598053799_408804980.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/SineWaveSurface3D/1920p30/partial_movie_files/SineWaveSurface3D/867883213_2074613992_4019138454.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/SineWaveSurface3D/1920p30/partial_movie_files/SineWaveSurface3D/867883213_2129317496_361333746.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/SineWaveSurface3D/1920p30/partial_movie_files/SineWaveSurface3D/867883213_789064381_2467128424.mp4'

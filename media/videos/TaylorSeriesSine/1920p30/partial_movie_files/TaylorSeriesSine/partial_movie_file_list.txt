@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesSine/1920p30/partial_movie_files/TaylorSeriesSine/2017681337_3422006189_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesSine/1920p30/partial_movie_files/TaylorSeriesSine/1496375296_1766947865_123186476.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesSine/1920p30/partial_movie_files/TaylorSeriesSine/1496375296_2710369074_1668754202.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesSine/1920p30/partial_movie_files/TaylorSeriesSine/1496375296_779177165_1346938905.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesSine/1920p30/partial_movie_files/TaylorSeriesSine/1496375296_3394500337_3307193165.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesSine/1920p30/partial_movie_files/TaylorSeriesSine/1496375296_1627675025_3507771308.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesSine/1920p30/partial_movie_files/TaylorSeriesSine/1496375296_3394500337_474896363.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesSine/1920p30/partial_movie_files/TaylorSeriesSine/1496375296_2877078804_1212681177.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesSine/1920p30/partial_movie_files/TaylorSeriesSine/1496375296_3394500337_2595062052.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesSine/1920p30/partial_movie_files/TaylorSeriesSine/1496375296_1363606996_1832958228.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesSine/1920p30/partial_movie_files/TaylorSeriesSine/1496375296_3394500337_1242704750.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesSine/1920p30/partial_movie_files/TaylorSeriesSine/1496375296_2834709167_1952686070.mp4'

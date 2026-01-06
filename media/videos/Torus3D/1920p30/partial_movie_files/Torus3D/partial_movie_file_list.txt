@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/Torus3D/1920p30/partial_movie_files/Torus3D/2911431388_4219476734_391005817.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/Torus3D/1920p30/partial_movie_files/Torus3D/3166423964_1733493583_1352554468.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/Torus3D/1920p30/partial_movie_files/Torus3D/3166423964_2463529816_170086002.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/Torus3D/1920p30/partial_movie_files/Torus3D/3166423964_789064381_2090543295.mp4'

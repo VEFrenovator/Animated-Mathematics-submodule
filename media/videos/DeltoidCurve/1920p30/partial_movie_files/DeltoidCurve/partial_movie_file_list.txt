@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/DeltoidCurve/1920p30/partial_movie_files/DeltoidCurve/2017681337_3990600688_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/DeltoidCurve/1920p30/partial_movie_files/DeltoidCurve/1496375296_410594534_2409085225.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/DeltoidCurve/1920p30/partial_movie_files/DeltoidCurve/1496375296_2425006539_1929435688.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/DeltoidCurve/1920p30/partial_movie_files/DeltoidCurve/1496375296_2146070601_4009520192.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/DeltoidCurve/1920p30/partial_movie_files/DeltoidCurve/1496375296_2844360058_3085642069.mp4'

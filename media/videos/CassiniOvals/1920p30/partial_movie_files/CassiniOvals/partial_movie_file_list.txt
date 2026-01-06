@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/CassiniOvals/1920p30/partial_movie_files/CassiniOvals/2017681337_1751198233_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/CassiniOvals/1920p30/partial_movie_files/CassiniOvals/1496375296_2359703015_3438592539.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/CassiniOvals/1920p30/partial_movie_files/CassiniOvals/1496375296_4035303974_3540320564.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/CassiniOvals/1920p30/partial_movie_files/CassiniOvals/1496375296_696934378_1666522792.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/CassiniOvals/1920p30/partial_movie_files/CassiniOvals/1496375296_3190964878_3741739636.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/CassiniOvals/1920p30/partial_movie_files/CassiniOvals/1496375296_1106826914_2086545934.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/CassiniOvals/1920p30/partial_movie_files/CassiniOvals/1496375296_3641596350_4134636385.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/CassiniOvals/1920p30/partial_movie_files/CassiniOvals/1496375296_752605193_1851738596.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/CassiniOvals/1920p30/partial_movie_files/CassiniOvals/1496375296_2871993135_3321484956.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/CassiniOvals/1920p30/partial_movie_files/CassiniOvals/1496375296_3352632017_3080035125.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/CassiniOvals/1920p30/partial_movie_files/CassiniOvals/1496375296_2844360058_3480098320.mp4'

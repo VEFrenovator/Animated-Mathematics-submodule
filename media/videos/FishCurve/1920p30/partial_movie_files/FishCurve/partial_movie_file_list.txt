@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FishCurve/1920p30/partial_movie_files/FishCurve/2017681337_817631889_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FishCurve/1920p30/partial_movie_files/FishCurve/1496375296_3626086522_2300689614.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FishCurve/1920p30/partial_movie_files/FishCurve/1496375296_811429220_252438603.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FishCurve/1920p30/partial_movie_files/FishCurve/1496375296_2514011427_9113512.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FishCurve/1920p30/partial_movie_files/FishCurve/1496375296_2514011427_608506544.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FishCurve/1920p30/partial_movie_files/FishCurve/1496375296_2514011427_3984610434.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FishCurve/1920p30/partial_movie_files/FishCurve/1496375296_2514011427_3863191437.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FishCurve/1920p30/partial_movie_files/FishCurve/1496375296_2514011427_3013021083.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FishCurve/1920p30/partial_movie_files/FishCurve/1496375296_2514011427_18628374.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FishCurve/1920p30/partial_movie_files/FishCurve/1496375296_2514011427_2592497102.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FishCurve/1920p30/partial_movie_files/FishCurve/1496375296_2514011427_940552365.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FishCurve/1920p30/partial_movie_files/FishCurve/1496375296_2844360058_2351940081.mp4'

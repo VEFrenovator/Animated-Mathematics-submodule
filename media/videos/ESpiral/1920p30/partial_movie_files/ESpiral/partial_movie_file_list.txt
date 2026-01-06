@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/ESpiral/1920p30/partial_movie_files/ESpiral/2017681337_2390281567_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/ESpiral/1920p30/partial_movie_files/ESpiral/1496375296_1318050599_4013925782.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/ESpiral/1920p30/partial_movie_files/ESpiral/1496375296_2844360058_3747832695.mp4'

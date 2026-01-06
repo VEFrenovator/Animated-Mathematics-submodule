@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/ButterflyCurve/1920p30/partial_movie_files/ButterflyCurve/2017681337_1174287187_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/ButterflyCurve/1920p30/partial_movie_files/ButterflyCurve/1496375296_3816173294_1959535015.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/ButterflyCurve/1920p30/partial_movie_files/ButterflyCurve/1496375296_153248326_2093949186.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/ButterflyCurve/1920p30/partial_movie_files/ButterflyCurve/1496375296_2315871682_2155066473.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/ButterflyCurve/1920p30/partial_movie_files/ButterflyCurve/1496375296_2844360058_3164662934.mp4'

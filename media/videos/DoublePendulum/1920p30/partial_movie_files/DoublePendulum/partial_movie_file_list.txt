@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/DoublePendulum/1920p30/partial_movie_files/DoublePendulum/2017681337_888353721_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/DoublePendulum/1920p30/partial_movie_files/DoublePendulum/1496375296_1145843816_3996296882.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/DoublePendulum/1920p30/partial_movie_files/DoublePendulum/1496375296_1937233492_1109334578.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/DoublePendulum/1920p30/partial_movie_files/DoublePendulum/1496375296_2017246194_1979542275.mp4'

@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/PolarVsCartesian3/1920p30/partial_movie_files/PolarVsCartesian3/2017681337_3213707594_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/PolarVsCartesian3/1920p30/partial_movie_files/PolarVsCartesian3/1496375296_4217992463_552953901.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/PolarVsCartesian3/1920p30/partial_movie_files/PolarVsCartesian3/1496375296_2573731251_3564108450.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/PolarVsCartesian3/1920p30/partial_movie_files/PolarVsCartesian3/1496375296_2536175139_2540966645.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/PolarVsCartesian3/1920p30/partial_movie_files/PolarVsCartesian3/1496375296_2271466077_80549594.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/PolarVsCartesian3/1920p30/partial_movie_files/PolarVsCartesian3/1496375296_4217992463_4071882398.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/PolarVsCartesian3/1920p30/partial_movie_files/PolarVsCartesian3/1496375296_3788934065_3740963415.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/PolarVsCartesian3/1920p30/partial_movie_files/PolarVsCartesian3/1496375296_2844360058_2583434800.mp4'

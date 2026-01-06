@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/GaussianSurface3D/1920p30/partial_movie_files/GaussianSurface3D/2625707582_258021275_1700938550.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/GaussianSurface3D/1920p30/partial_movie_files/GaussianSurface3D/2736200493_2838754549_3776946346.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/GaussianSurface3D/1920p30/partial_movie_files/GaussianSurface3D/408820658_1687483585_1883168654.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/GaussianSurface3D/1920p30/partial_movie_files/GaussianSurface3D/221369471_789064381_873993199.mp4'

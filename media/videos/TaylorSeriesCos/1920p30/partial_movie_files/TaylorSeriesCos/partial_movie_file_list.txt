@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesCos/1920p30/partial_movie_files/TaylorSeriesCos/2017681337_845076851_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesCos/1920p30/partial_movie_files/TaylorSeriesCos/1496375296_1766947865_2379093896.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesCos/1920p30/partial_movie_files/TaylorSeriesCos/1496375296_1137302329_1083530072.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesCos/1920p30/partial_movie_files/TaylorSeriesCos/1496375296_3214393693_958365753.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesCos/1920p30/partial_movie_files/TaylorSeriesCos/1496375296_3394500337_1918755523.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesCos/1920p30/partial_movie_files/TaylorSeriesCos/1496375296_4273895689_3881439938.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesCos/1920p30/partial_movie_files/TaylorSeriesCos/1496375296_3394500337_892028156.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesCos/1920p30/partial_movie_files/TaylorSeriesCos/1496375296_1262981119_1455251154.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesCos/1920p30/partial_movie_files/TaylorSeriesCos/1496375296_3394500337_332244240.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesCos/1920p30/partial_movie_files/TaylorSeriesCos/1496375296_57602267_1184382751.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesCos/1920p30/partial_movie_files/TaylorSeriesCos/1496375296_3394500337_952721704.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/TaylorSeriesCos/1920p30/partial_movie_files/TaylorSeriesCos/1496375296_2834709167_700459907.mp4'

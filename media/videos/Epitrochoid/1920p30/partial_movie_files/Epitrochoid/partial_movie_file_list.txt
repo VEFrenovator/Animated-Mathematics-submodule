@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/Epitrochoid/1920p30/partial_movie_files/Epitrochoid/2017681337_237925177_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/Epitrochoid/1920p30/partial_movie_files/Epitrochoid/1496375296_2531451532_3418726873.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/Epitrochoid/1920p30/partial_movie_files/Epitrochoid/1496375296_2070280925_1554599472.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/Epitrochoid/1920p30/partial_movie_files/Epitrochoid/1496375296_2893722445_2147071133.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/Epitrochoid/1920p30/partial_movie_files/Epitrochoid/1496375296_2844360058_3147534342.mp4'

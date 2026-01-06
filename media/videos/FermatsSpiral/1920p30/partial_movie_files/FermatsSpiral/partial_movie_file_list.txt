@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FermatsSpiral/1920p30/partial_movie_files/FermatsSpiral/2017681337_919902492_223132457.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FermatsSpiral/1920p30/partial_movie_files/FermatsSpiral/1496375296_2836349116_756985207.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FermatsSpiral/1920p30/partial_movie_files/FermatsSpiral/1496375296_1159686731_3146781598.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FermatsSpiral/1920p30/partial_movie_files/FermatsSpiral/1496375296_2285179007_587338415.mp4'
+file 'file:C:/Users/vladi/Documents/Animated-Mathematics/media/videos/FermatsSpiral/1920p30/partial_movie_files/FermatsSpiral/1496375296_2844360058_2869250440.mp4'
