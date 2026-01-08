@@ -28,11 +28,18 @@ substantial portions of the Software.
 # Импорт библиотек
 import numpy as np
 from manim import *
-from slides_animation import rus_tex_template, BACKGROUND_COLOR_CODE
-from copyrighting import *
+from agp_manim.animations.slides_animation import (
+    rus_tex_template,
+    BACKGROUND_COLOR_CODE,
+)
+from agp_manim.utils.copyrighting import (
+    CopyrightMark,
+    CreateCopyrightMark,
+    UncreateCopyrightMark,
+)
 
 
-config.background_color = BLACK
+config.background_color = ManimColor(BACKGROUND_COLOR_CODE)
 config.frame_height = 16
 config.frame_width = 16 * 16 / 9
 
@@ -188,94 +195,152 @@ class Fields(Scene):
         # ПОДГОТОВКА ГРУПП ПОЛЕЙ
         # Круговое вихревое поле
         swirl_color = GREEN
-        swirl_lines = StreamLines(
-            self.swirl_solver,
-            x_range=[-4, 4, 0.4],
-            y_range=[-4, 4, 0.4],
-            stroke_width=1.2,
-            max_anchors_per_line=50,
-            virtual_time=4,
-            dt=0.05,
-            color=swirl_color
-        ).scale(0.6).move_to(DOWN * 2.0)
-        swirl_title = Text("Круговое вихревое поле", color=swirl_color, weight=BOLD).scale(1.2).move_to(UP * 3.5)
-        swirl_eq = MathTex(r"\vec{F}(x, y) = (-y, x)", color=YELLOW).scale(0.8).next_to(swirl_title, DOWN, buff=0.4)
-        swirl_group = VDict({
-            "field": swirl_lines,
-            "title": swirl_title,
-            "eq": swirl_eq,
-        })
+        swirl_lines = (
+            StreamLines(
+                self.swirl_solver,
+                x_range=[-4, 4, 0.4],
+                y_range=[-4, 4, 0.4],
+                stroke_width=1.2,
+                max_anchors_per_line=50,
+                virtual_time=4,
+                dt=0.05,
+                color=swirl_color,
+            )
+            .scale(0.6)
+            .move_to(DOWN * 2.0)
+        )
+        swirl_title = (
+            Text("Круговое вихревое поле", color=swirl_color, weight=BOLD)
+            .scale(1.2)
+            .move_to(UP * 3.5)
+        )
+        swirl_eq = (
+            MathTex(r"\vec{F}(x, y) = (-y, x)", color=YELLOW)
+            .scale(0.8)
+            .next_to(swirl_title, DOWN, buff=0.4)
+        )
+        swirl_group = VDict(
+            {
+                "field": swirl_lines,
+                "title": swirl_title,
+                "eq": swirl_eq,
+            }
+        )
 
         # Поле радиального стока
         sink_color = PURPLE
-        sink_lines = StreamLines(
-            self.sink_solver,
-            x_range=[-4, 4, 0.3],
-            y_range=[-4, 4, 0.3],
-            stroke_width=1.2,
-            max_anchors_per_line=50,
-            virtual_time=4,
-            dt=0.05,
-            color=sink_color
-        ).scale(0.6).move_to(DOWN * 2.0)
-        sink_title = Text("Поле радиального стока", color=sink_color, weight=BOLD).scale(1.2).move_to(UP * 3.5)
-        sink_eq = MathTex(
-            r"\vec{F}(x, y) = \left(",
-            r"-\frac{x}{\sqrt{x^2 + y^2}}, \quad -\frac{y}{\sqrt{x^2 + y^2}}", 
-            color=YELLOW
-        ).scale(0.8).next_to(sink_title, DOWN, buff=0.4)
-        sink_group = VDict({
-            "field": sink_lines,
-            "title": sink_title,
-            "eq": sink_eq,
-        })
+        sink_lines = (
+            StreamLines(
+                self.sink_solver,
+                x_range=[-4, 4, 0.3],
+                y_range=[-4, 4, 0.3],
+                stroke_width=1.2,
+                max_anchors_per_line=50,
+                virtual_time=4,
+                dt=0.05,
+                color=sink_color,
+            )
+            .scale(0.6)
+            .move_to(DOWN * 2.0)
+        )
+        sink_title = (
+            Text("Поле радиального стока", color=sink_color, weight=BOLD)
+            .scale(1.2)
+            .move_to(UP * 3.5)
+        )
+        sink_eq = (
+            MathTex(
+                r"\vec{F}(x, y) = \left(",
+                r"-\frac{x}{\sqrt{x^2 + y^2}}, \quad -\frac{y}{\sqrt{x^2 + y^2}}",
+                color=YELLOW,
+            )
+            .scale(0.8)
+            .next_to(sink_title, DOWN, buff=0.4)
+        )
+        sink_group = VDict(
+            {
+                "field": sink_lines,
+                "title": sink_title,
+                "eq": sink_eq,
+            }
+        )
 
         # Синусоидальное поле
         sin_color = RED
-        sin_lines = StreamLines(
-            self.sin_solver,
-            x_range=[-4, 4, 0.1],
-            y_range=[-4, 4, 0.1],
-            stroke_width=1.2,
-            max_anchors_per_line=50,
-            virtual_time=4,
-            dt=0.05,
-            color=sin_color
-        ).scale(0.6).move_to(DOWN * 2.0)
-        sin_title = Text("Синусоидальное поле", color=sin_color, weight=BOLD).scale(1.2).move_to(UP * 3.5)
-        sin_eq = MathTex(r"\vec{F}(x, y) = (-y, x)", color=YELLOW).scale(0.8).next_to(sin_title, DOWN, buff=0.4)
-        sin_group = VDict({
-            "field": sin_lines,
-            "title": sin_title,
-            "eq": sin_eq,
-        })
+        sin_lines = (
+            StreamLines(
+                self.sin_solver,
+                x_range=[-4, 4, 0.1],
+                y_range=[-4, 4, 0.1],
+                stroke_width=1.2,
+                max_anchors_per_line=50,
+                virtual_time=4,
+                dt=0.05,
+                color=sin_color,
+            )
+            .scale(0.6)
+            .move_to(DOWN * 2.0)
+        )
+        sin_title = (
+            Text("Синусоидальное поле", color=sin_color, weight=BOLD)
+            .scale(1.2)
+            .move_to(UP * 3.5)
+        )
+        sin_eq = (
+            MathTex(r"\vec{F}(x, y) = (-y, x)", color=YELLOW)
+            .scale(0.8)
+            .next_to(sin_title, DOWN, buff=0.4)
+        )
+        sin_group = VDict(
+            {
+                "field": sin_lines,
+                "title": sin_title,
+                "eq": sin_eq,
+            }
+        )
 
         # Внутренне-спиральное поле
         spiral_color = PURPLE
-        spiral_lines = StreamLines(
-            self.spiral_solver,
-            x_range=[-4, 4, 0.3],
-            y_range=[-4, 4, 0.3],
-            stroke_width=1.2,
-            max_anchors_per_line=50,
-            virtual_time=4,
-            dt=0.05,
-            color=spiral_color
-        ).scale(0.6).move_to(DOWN * 2.0)
-        spiral_title = Text("Внутренне-спиральное поле", color=spiral_color, weight=BOLD).scale(1.2).move_to(UP * 3.5)
-        spiral_eq = MathTex(r"\vec{F}(x, y) = (-y, x)", color=YELLOW).scale(0.8).next_to(spiral_title, DOWN, buff=0.4)
-        spiral_group = VDict({
-            "field": spiral_lines,
-            "title": spiral_title,
-            "eq": spiral_eq,
-        })
+        spiral_lines = (
+            StreamLines(
+                self.spiral_solver,
+                x_range=[-4, 4, 0.3],
+                y_range=[-4, 4, 0.3],
+                stroke_width=1.2,
+                max_anchors_per_line=50,
+                virtual_time=4,
+                dt=0.05,
+                color=spiral_color,
+            )
+            .scale(0.6)
+            .move_to(DOWN * 2.0)
+        )
+        spiral_title = (
+            Text("Внутренне-спиральное поле", color=spiral_color, weight=BOLD)
+            .scale(1.2)
+            .move_to(UP * 3.5)
+        )
+        spiral_eq = (
+            MathTex(r"\vec{F}(x, y) = (-y, x)", color=YELLOW)
+            .scale(0.8)
+            .next_to(spiral_title, DOWN, buff=0.4)
+        )
+        spiral_group = VDict(
+            {
+                "field": spiral_lines,
+                "title": spiral_title,
+                "eq": spiral_eq,
+            }
+        )
 
         # ВЫВОД ГРУППОЙ
         self.add(swirl_lines, sink_lines, sin_lines, spiral_lines)
-        groups = Group(swirl_group, sink_group, sin_group, spiral_group)\
-            .arrange_in_grid(rows=2, cols=2, buff=LARGE_BUFF)\
-            .scale_to_fit_height(config.frame_height * 0.95)\
-            .scale_to_fit_width(config.frame_width * 0.95)  
+        groups = (
+            Group(swirl_group, sink_group, sin_group, spiral_group)
+            .arrange_in_grid(rows=2, cols=2, buff=LARGE_BUFF)
+            .scale_to_fit_height(config.frame_height * 0.95)
+            .scale_to_fit_width(config.frame_width * 0.95)
+        )
 
         for group in groups:
             group["field"].start_animation()
@@ -284,21 +349,24 @@ class Fields(Scene):
         self.wait(10)
 
         for group in groups:
-            self.play(group["field"].end_animation(), Unwrite(group["title"]), Unwrite(group["eq"]))
+            self.play(
+                group["field"].end_animation(),
+                Unwrite(group["title"]),
+                Unwrite(group["eq"]),
+            )
         self.wait()
-
 
     @staticmethod
     def swirl_solver(pos) -> np.ndarray:
         x, y = pos[:2]
         return np.array([-y, x, 0])
-    
+
     @staticmethod
     def sink_solver(pos) -> np.ndarray:
         x, y = pos[:2]
         r = np.sqrt(x**2 + y**2) + 0.1  # avoid division by zero
         return np.array([-x / r, -y / r, 0])
-    
+
     @staticmethod
     def sin_solver(pos) -> np.ndarray:
         x, y = pos[:2]
